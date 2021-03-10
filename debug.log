@@ -1,0 +1,5 @@
+[0308/220345.398:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/220345.403:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Nolarry\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0308/220810.111:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0310/123939.753:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0310/123939.758:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Nolarry\Reports\Dump\settings.dat: Access is denied. (0x5)
