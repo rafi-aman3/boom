@@ -9,7 +9,7 @@ const FriendDetails = () => {
         const url = `https://jsonplaceholder.typicode.com/users/${id}`;
         axios(url)
             .then(res => setfriendDetail(res.data))
-    }, []);
+    }, [id]);
 
     const {name, email, phone, username} = friendDetail;
     let history = useHistory();
